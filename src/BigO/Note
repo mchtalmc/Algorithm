@@ -1,0 +1,10 @@
+
+
+
+                            *****Time Complexity Nedir ? ********
+
+         Time Complexity bir algoritmanin calismasi icin gerekli olan suredir.
+            Ancak buradaki sure , saniyeleri hesaplayarak degil , kac tane islem
+            gerceklestirdigine gore hesaplanmaktadir. Uygulama tarafindan gerceklestirilen
+            islem sayisi , veri setinin buyuklugune ve o veri setindeki elemanlarina, sirasina
+            gore belirlenir.
