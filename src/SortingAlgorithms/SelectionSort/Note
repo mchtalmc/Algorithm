@@ -1,0 +1,11 @@
+
+
+            --> Ilk elemandan son elemana kadar her elemani kendinden sonra gelen kucuk elemanlarin en kucugu
+            ile yer degistiriyoruz.
+
+            {1,2,3,10,6,4,7} ==> 1,2,3,4,6,10,7 -- > 1,2,3,4,6,7,10
+            //Her elemani kendinden sonra gelen elemanlarla kiyasliyor ve **en kucugu *** ile yer degistiriyor.
+
+
+            ---> Time comlecity = On(2)
+            ---> Memory Usage == 1 variable , degistirilmek icin secilen variable
