@@ -1,0 +1,15 @@
+
+
+
+                    {2,4,5,3,1,6} ---> Kendinden once ki elemanla kiyaslama yapip
+                                        yer degistiriyor.
+
+
+      1-> {2,4,5,5,1,6}
+      2-> {2,4,4,5,1,6}
+      3->{2,3,4,5,1,6}
+      ......
+
+  * Time Comlecity --> On(2) en iyi durumda On , en kotu durumda On2
+
+  ** Memory Usage -> 1 variable
