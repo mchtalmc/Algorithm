@@ -13,6 +13,7 @@ public class Runner {
 
         System.out.println("Sonrasi");
         BubleSort.bubbleSort(arr);
+        System.out.println(Arrays.toString(arr));
 
 
     }
