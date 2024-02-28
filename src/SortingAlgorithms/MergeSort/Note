@@ -1,0 +1,17 @@
+
+
+ --> Diziyi ikiye bolup olusan alt kumeleri tekrar birlestirmeli siralama algoritmasina aliyor ve
+ boylece dizi surekli ikiye bolunmus oluyor. Elemanlari ikiserli olarak karsilastirip sirali bir
+ bicimde birlestiriyor , daha sonra bu iki elemanli alt kumeleri sirali bicimde birlestirerek alt kumeler
+ elde ediyor. Boyle devam ettigimizde , ornegin 16 elemanli ise elimizde 8 elemanli sirali iki alt kume kaliyor.
+ Bu alt kumeleri de ayni sekilde sirali bicimde birlestirdigimiz zaman dizimiz siralanmis oluyor
+
+
+ ---TIME COMLEXITY -> En kotu durumda o(nlog) sure zamanda calisiyor. Teorik olarak yukaridaki 3 algoritmadan da kisa
+ zamanda isini gorur
+
+
+
+ ----> MEMORY USAGE -> Bellek kullaniminda ise bu methodun onceki yontemlere gore
+ dezavantaji var. Birlestirmeli siralama 0(n)"lik bir ekstra bellek kullaniyor ki bu da
+ boyutu buyuk elemanlara sahip cok elemanli dizileri siralarken kendini fazlasiyla belli edecektir.
